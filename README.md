@@ -1,6 +1,6 @@
 <h1>Hey U<h1>
 
-<h2>This Notebook has webscrapy, treatment, cleaning, features engineering and DataViz about:
+<h2>This repository has one Notebook containing webscrapy, treatment, cleaning, features engineering and DataViz about:
 
 New confirmed cases in Brasil group by epidemiological_week.
 
