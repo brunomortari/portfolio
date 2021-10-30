@@ -2,7 +2,7 @@ Hey U
 
 This repository has one Notebook containing webscrapy, treatment, cleaning, features engineering and word cloud about Greek words of new testament - Nestle 1904.
 
-word_cloud.ipynb: wor cloud :: output: export .png
+word_cloud.ipynb: wordd cloud :: output: export .png
 
 libs: 
 pandas
